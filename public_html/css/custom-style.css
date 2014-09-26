@@ -1,7 +1,7 @@
 div{
-    border-style: solid;
+    border-style: none;
     border-width: 5px;
-    border-color: green;
+    border-color: ;
     padding: 30px;
 }
 
@@ -19,15 +19,15 @@ div{
     margin-bottom: 40px;
 }
 
-.text-center{
-    text-align: center;
-}
+
+
 
 img{
     background-image: url(http://cache.desktopnexus.com/thumbnails/504612-bigthumbnail.jpg)
-}
+        
+}    */* A picture that shows what i like to do... watch football*/
 
 body{
-
+    background-color:red; /*Changing the color of the background on my portfolio pages*/
 }
 
